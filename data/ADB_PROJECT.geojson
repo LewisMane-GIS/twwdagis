@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "ADB_PROJECT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Meru Sewerage Project - Meru County" }, "geometry": { "type": "Point", "coordinates": [ 30.891362522705478, -80.895775718141849 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Isiolo Town Water Supply" }, "geometry": { "type": "Point", "coordinates": [ 37.589608326542809, 0.346612357420684 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Chogoria Water Supply Project" }, "geometry": { "type": "Point", "coordinates": [ 37.594603100068397, -0.23235579467107 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Marsabit Water Supply Project" }, "geometry": { "type": "Point", "coordinates": [ 37.994345258125762, 2.335526476970649 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Marsabit Sewerage Project-" }, "geometry": { "type": "Point", "coordinates": [ 37.994345258125762, 2.335526476970649 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Murang’a Urban Water Supply" }, "geometry": { "type": "Point", "coordinates": [ 37.151532071059513, -0.727867102410217 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Murang’a South Water Supply" }, "geometry": { "type": "Point", "coordinates": [ 37.002117755594497, -0.896383781787935 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Mandera Water Supply Project" }, "geometry": { "type": "Point", "coordinates": [ 41.82850538255444, 3.934176889421243 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Kerugoya-Kutus Water Supply Project" }, "geometry": { "type": "Point", "coordinates": [ 37.26863056443753, -0.475482750572276 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Kerugoya-Kutus Water Supply Project" }, "geometry": { "type": "Point", "coordinates": [ 37.285116297341474, -0.386233703224482 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Chuka Water and Sewerage Project" }, "geometry": { "type": "Point", "coordinates": [ 37.598145515372863, -0.313915240292499 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Othaya Sewerage" }, "geometry": { "type": "Point", "coordinates": [ 36.945002724602141, -0.54888183943746 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Garissa Town Water Supply" }, "geometry": { "type": "Point", "coordinates": [ 39.646158253715576, -0.453319032653269 ] } }
+]
+}

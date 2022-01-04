@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "cross-county",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Ndigia Water project" }, "geometry": { "type": "Point", "coordinates": [ 37.612784722893899, -0.338033082587705 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Mwichuiri water project" }, "geometry": { "type": "Point", "coordinates": [ 37.60566666170498, -0.227472726917033 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Muthambi Gitije water project" }, "geometry": { "type": "Point", "coordinates": [ 37.600700883712989, -0.261229987616802 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Muhoya\/kimathi water project" }, "geometry": { "type": "Point", "coordinates": [ 36.883873761181995, -0.415722310836095 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Mukui water project" }, "geometry": { "type": "Point", "coordinates": [ 37.519017384113496, -0.712744248364489 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Njarune Earth dam" }, "geometry": { "type": "Point", "coordinates": [ 37.840297505479676, -0.456271372058432 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Nginyo Earth dam" }, "geometry": { "type": "Point", "coordinates": [ 37.996491620604836, 0.465754111549226 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Nkubiu Water Project" }, "geometry": { "type": "Point", "coordinates": [ 37.855225950251786, -0.039090815115105 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Thimangiri Earth Dam" }, "geometry": { "type": "Point", "coordinates": [ 37.72346415123323, -0.039603602575652 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Kinoru Kambakia Water Pan" }, "geometry": { "type": "Point", "coordinates": [ 37.612524067832695, -0.054924210568547 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Kanyakine Water Project" }, "geometry": { "type": "Point", "coordinates": [ 37.638301029857267, -0.112908137060149 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Wiru Self Help" }, "geometry": { "type": "Point", "coordinates": [ 37.603240730490725, -0.254535397152394 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Kithima \/Mzalendo in TharakaNithi County" }, "geometry": { "type": "Point", "coordinates": [ 37.605512965825149, -0.22102120144805 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Makuri water Project" }, "geometry": { "type": "Point", "coordinates": [ 37.587891987467565, -0.25224129818284 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Gantaraki Water Project" }, "geometry": { "type": "Point", "coordinates": [ 37.588841264256097, -0.250889430456031 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Rwanchege Kieni water project" }, "geometry": { "type": "Point", "coordinates": [ 37.655064631393877, -0.279007699834618 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Ura 4  Phase II Earth Dam" }, "geometry": { "type": "Point", "coordinates": [ 37.723531486204216, -0.221229950734616 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Construction of Kanjogu Dam" }, "geometry": { "type": "Point", "coordinates": [ 37.577170635569438, -0.226952562210723 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Construction of Thambo in Meru and Tharaka Nithi C" }, "geometry": { "type": "Point", "coordinates": [ 37.564432099277326, -0.186831413035397 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Names": "Mathira Community Water Project in Nyeri County" }, "geometry": { "type": "Point", "coordinates": [ 37.129658353622098, -0.47328768190598 ] } }
+]
+}
